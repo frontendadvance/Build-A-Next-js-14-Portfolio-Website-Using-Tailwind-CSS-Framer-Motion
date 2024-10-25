@@ -1,4 +1,5 @@
-![Uploading Build-A-Next-js-14-Portfolio-Website-Using-Tailwind-CSS-&-Framer-Motion.jpg…]()
+![Build-A-Next-js-14-Portfolio-Website-Using-Tailwind-CSS- -Framer-Motion](https://github.com/user-attachments/assets/b5230c95-8302-483b-a1c4-cc7b04323d5f)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
